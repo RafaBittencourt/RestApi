@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cec26afS9r4+EOuI9RDKWE5gbaBzHQuR1WKOChp5i/A=",
+  "Source": "RestApi.Host",
+  "BasePath": "_content/RestApi.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
