@@ -1,0 +1,24 @@
+C:\Projetos\RestApi\RestApi\RestApi.Entities\bin\Debug\net6.0\RestApi.Entities.deps.json
+C:\Projetos\RestApi\RestApi\RestApi.Entities\bin\Debug\net6.0\RestApi.Entities.dll
+C:\Projetos\RestApi\RestApi\RestApi.Entities\bin\Debug\net6.0\RestApi.Entities.pdb
+C:\Projetos\RestApi\RestApi\RestApi.Entities\obj\Debug\net6.0\RestApi.Entities.csproj.AssemblyReference.cache
+C:\Projetos\RestApi\RestApi\RestApi.Entities\obj\Debug\net6.0\RestApi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\RestApi\RestApi\RestApi.Entities\obj\Debug\net6.0\RestApi.Entities.AssemblyInfoInputs.cache
+C:\Projetos\RestApi\RestApi\RestApi.Entities\obj\Debug\net6.0\RestApi.Entities.AssemblyInfo.cs
+C:\Projetos\RestApi\RestApi\RestApi.Entities\obj\Debug\net6.0\RestApi.Entities.csproj.CoreCompileInputs.cache
+C:\Projetos\RestApi\RestApi\RestApi.Entities\obj\Debug\net6.0\RestApi.Entities.dll
+C:\Projetos\RestApi\RestApi\RestApi.Entities\obj\Debug\net6.0\refint\RestApi.Entities.dll
+C:\Projetos\RestApi\RestApi\RestApi.Entities\obj\Debug\net6.0\RestApi.Entities.pdb
+C:\Projetos\RestApi\RestApi\RestApi.Entities\obj\Debug\net6.0\ref\RestApi.Entities.dll
+C:\Projetos\Nova pasta (2)\RestApi\RestApi.Entities\bin\Debug\net6.0\RestApi.Entities.deps.json
+C:\Projetos\Nova pasta (2)\RestApi\RestApi.Entities\bin\Debug\net6.0\RestApi.Entities.dll
+C:\Projetos\Nova pasta (2)\RestApi\RestApi.Entities\bin\Debug\net6.0\RestApi.Entities.pdb
+C:\Projetos\Nova pasta (2)\RestApi\RestApi.Entities\obj\Debug\net6.0\RestApi.Entities.csproj.AssemblyReference.cache
+C:\Projetos\Nova pasta (2)\RestApi\RestApi.Entities\obj\Debug\net6.0\RestApi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Nova pasta (2)\RestApi\RestApi.Entities\obj\Debug\net6.0\RestApi.Entities.AssemblyInfoInputs.cache
+C:\Projetos\Nova pasta (2)\RestApi\RestApi.Entities\obj\Debug\net6.0\RestApi.Entities.AssemblyInfo.cs
+C:\Projetos\Nova pasta (2)\RestApi\RestApi.Entities\obj\Debug\net6.0\RestApi.Entities.csproj.CoreCompileInputs.cache
+C:\Projetos\Nova pasta (2)\RestApi\RestApi.Entities\obj\Debug\net6.0\RestApi.Entities.dll
+C:\Projetos\Nova pasta (2)\RestApi\RestApi.Entities\obj\Debug\net6.0\refint\RestApi.Entities.dll
+C:\Projetos\Nova pasta (2)\RestApi\RestApi.Entities\obj\Debug\net6.0\RestApi.Entities.pdb
+C:\Projetos\Nova pasta (2)\RestApi\RestApi.Entities\obj\Debug\net6.0\ref\RestApi.Entities.dll
